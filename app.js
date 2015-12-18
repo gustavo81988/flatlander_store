@@ -10,8 +10,13 @@
 
 		{
 			name: 'Dodecahedron',
-			price: 2.95, 
+			price: 2, 
 			description: '....',
+			images:[
+				{
+					full: 'gem-02.gif'
+				}
+			],
 			canPurchase: true,
 			soldOut: false
 		},
@@ -20,6 +25,11 @@
 			name: 'Pentagonal Gem',
 			price: 5.95, 
 			description: '....',
+			images:[
+				{
+					full: 'gem-01.gif'
+				}
+			],
 			canPurchase: true,
 			soldOut: false
 		}
